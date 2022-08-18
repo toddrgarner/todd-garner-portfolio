@@ -1,0 +1,173 @@
+/* Universal Selector */
+* {
+  margin:0;
+  padding:0; 
+  box-sizing: border-box;
+}
+
+/* Element Selectors */
+body {
+  position: relative;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  font-size: 20px;
+  background-color: #ddaf94ff;
+  color: #4F4846;
+}
+
+.picOfMe img {
+  width: 300px;
+  border-radius: 50%;
+}
+
+h1,
+h2 {
+  margin: 20px;
+}
+
+main {
+  padding: 60px 0;
+}
+
+nav {
+  display:flex;
+  margin-top: -19px;
+}
+
+nav h1 {
+  margin-left: 2rem;
+  color: white;
+}
+ ul {
+  display: flex;
+  margin-left: auto;
+  margin-right: 2rem;
+ }
+
+li {
+  padding: 20px 20px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.contact ul {
+  justify-content: center;
+}
+
+.contact li a {
+  color: rgb(9, 9, 9);
+}
+
+header,
+footer {
+  height: 60px;
+  width: 100%;
+  line-height: 60px;
+  background-color: #000806;
+}
+
+header {
+  position: fixed;
+  border-bottom: 10px solid #fdfbfa;
+}
+
+.bigCard {
+  width: 700px;
+  height: 350px;
+  background-color: blue;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.littleCards {
+  display: flex;
+  margin-top: 25px;
+  justify-content: center;
+}
+
+.littleCards .card1 {
+  width: 300px;
+  height: 125px;
+  background-color: blue;
+  margin-right:auto;
+}
+
+.littleCards .card2 {
+  width: 300px;
+  height: 125px;
+  background-color: blue;
+  margin-left: auto;
+}
+
+figure {
+  margin-bottom: 40px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+}
+
+section {
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 0;
+  padding: 20px 10px 40px 10px;
+  border-top: 0px solid #DDAF94;
+  color: rgb(0, 0, 0);
+}
+
+form {
+  /* Center the form on the page */
+  margin: 0 auto;
+  width: 500px;
+  padding: 10px;
+  border: 5px solid #DDAF94;
+  border-radius: 20px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+  
+input, 
+textarea {
+  box-sizing: border-box;
+  width: 300px;
+  border: 1px solid #4F4846;
+}
+
+textarea {
+  vertical-align: top;
+  height: 60px;
+}
+  
+button {
+  height: 40px;
+  width: 120px;
+  background-color: #4F4846;
+  color: #FDF8F5;
+}
+ 
+/* Class Selectors */
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+footer {
+  position: absolute;
+  margin-top: 0;
+  bottom: 0;
+  border-bottom: 10px solid #4F4846;
+  color: #FDF8F5;    
+}
