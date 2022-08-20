@@ -14,6 +14,16 @@ body {
   color: #4F4846;
 }
 
+.hero {
+  
+  background-color: rgb(101, 101, 104);
+  background-image: url("PullmanPorter-2.jpg");
+  padding-left: 0rem;
+  padding-right: 0rem;
+  background-size: cover;
+}
+
+
 .picOfMe img {
   width: 300px;
   border-radius: 50%;
@@ -72,13 +82,31 @@ footer {
 
 header {
   position: fixed;
-  border-bottom: 10px solid #fdfbfa;
+  /* border-bottom: 10px solid #fdfbfa; */
 }
+
+.parentBox {
+
+display: flex;
+flex-direction: column;
+max-width: fit-content;
+margin: auto;
+}
+
+
+
+.website  {
+  color: #FDF8F5;
+margin-top: 40px;
+  }
+
 
 .bigCard {
   width: 700px;
   height: 350px;
-  background-color: blue;
+  background-color: rgb(101, 101, 104);
+  background-image: url("PullmanPorter-2.jpg");
+  background-size: cover;
   margin-left: auto;
   margin-right: auto;
 }
@@ -86,21 +114,26 @@ header {
 .littleCards {
   display: flex;
   margin-top: 25px;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .littleCards .card1 {
   width: 300px;
   height: 125px;
-  background-color: blue;
-  margin-right:auto;
+  background-color: rgb(101, 101, 104);
+  
 }
+
+.littleCards.card1 h1{
+  margin: auto;
+}
+ 
 
 .littleCards .card2 {
   width: 300px;
   height: 125px;
-  background-color: blue;
-  margin-left: auto;
+  background-color: rgb(101, 101, 104);
+  
 }
 
 figure {
@@ -168,6 +201,5 @@ footer {
   position: absolute;
   margin-top: 0;
   bottom: 0;
-  border-bottom: 10px solid #4F4846;
   color: #FDF8F5;    
 }
