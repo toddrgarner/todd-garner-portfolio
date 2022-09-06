@@ -21,7 +21,7 @@ https://github.com/toddrgarner/todd-garner-portfolio
 
 ## Portfolio GIF
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/110719370/188748650-56b39423-6ab5-4295-8995-7735938aac3d.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/110719370/188750904-41401ce8-1d16-4293-b8fd-2548e2215426.gif)
 
 
 
