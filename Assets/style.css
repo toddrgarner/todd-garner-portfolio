@@ -17,7 +17,7 @@ body {
 .hero {
   
   background-color: rgb(101, 101, 104);
-  background-image: url("PullmanPorter-2.jpg");
+  background-image: url("Assets/PullmanPorter-2.jpg");
   padding-left: 0rem;
   padding-right: 0rem;
   background-size: cover;
