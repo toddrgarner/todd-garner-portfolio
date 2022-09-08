@@ -1,7 +1,7 @@
 # Todd Garner's Portfolio
 
 ## My Story
-My name is Todd Garner. I've been in banking for for over 20 years in sales and real estate. I decided to become a fullstack software engineer after being laid off from my previous employeer. After several months of research, I realized there was a need for more coding engineers. I spend many hours daily in the studio editing so I knew this would be a great transition into this field.
+My name is Todd Garner. I've been in the banking industry for for over 20 years. I decided to become a fullstack software engineer after being laid off from my previous employer. After developing a growing interest, I decided to take the UCLA bootcamp program to further my knowledge web develpoment. I spend many hours daily in the studio editing, so I knew this would be a great transition into this field.
 
 As a beginning web developer, I want to learn how to develop a codebase that would allows the user to navigate the site for search engines with efficiency and ease. I've included a project I completed from a project at bootcamp with more definitely to come in the future.
 
